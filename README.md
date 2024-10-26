@@ -1,24 +1,30 @@
-## KÜTÜPHANELER
+<h1>Notes App with React - Vite - TYPESCRIPT </h1>
 
--  react-router-dom
--  react-bootstrap
--  bootstrap
--  react-markdown
--  react-select
--  uuid
+<hr>
 
+<h2>Technologies Used</h2>
 
-``` js   const numbers = [10,20,30,40,50,60]
+<p>
 
-//dizideki bütün sayılar 5 ten buyukmu?
-const cevap1 = numbers.every((num) => num > 5 )
+# Libraries
 
-//dizideki butun elemenlr 20 den buyuk mu
-const cevap2 = numbers.every((num) => num > 20 )
+</br></br>
 
-console.log("hepsi 5 ten buyuk mu", cevap1)
-console.log("hepsi 20 den buyuk mu", cevap2)
+- react-router-dom
+  </br>
+- uidotdev
+  </br>
+- bootstrap
+  </br>
+- react markdown
+  </br>
+- react select
+  </br>
+- uuid
+  </br>
+- react-vite
+  </br>
 
-// every dizideki butun elemanlar verilen koşula uyuyor mu kontrol eder
+  </br> Responsive </p>
 
-// some  dizideki elemanlrdan en az bir tanesi koşula uyuyormu kontrol eder  ````# Notes_app
+![add notes](https://github.com/user-attachments/assets/9844924f-c286-4682-9134-0364cc651e3b)
